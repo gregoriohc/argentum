@@ -1,0 +1,19 @@
+{
+    "name": "gregoriohc/argentum",
+    "type": "metapackage",
+    "description": "Framework agnostic PHP electronic documents processing library",
+    "license": "MIT",
+    "keywords": ["billing", "invoicing", "offline"],
+    "authors": [
+        {
+            "name": "Gregorio Hernandez Caso",
+            "email": "gregoriohc@gmail.com"
+        }
+    ],
+    "require": {
+        "gregoriohc/argentum-common": "~0.1",
+        "gregoriohc/argentum-offline": "~0.1"
+    },
+    "require-dev": {
+    }
+}
